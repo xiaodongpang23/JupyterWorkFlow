@@ -1,10 +1,2 @@
-git status
-git add JupyterWorkflowDataAnalysis.ipynb 
-git commit -m "Add initial analysis notebook"
-git config --global user.email "xiaodong0119@gmail.com"
-git commit -m "Add initial analysis notebook"
-git push origin master
-git status
-
 # test function [Unit test]
 python -m pytest commonxd
